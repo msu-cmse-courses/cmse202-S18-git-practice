@@ -1,4 +1,9 @@
 My name is Nat Hawkins.
 My major is Physics.
 I enjoy long walks on the beach and pleasant sunsets.
+<<<<<<< HEAD
 My favorite band is The Pimps. We got Eric, and Ron, and Big Daddy and Mama. 
+=======
+My favorite band is ACDC.
+also hates babies, terrible with children
+>>>>>>> 672aade2b1aedc045a991f308feaec0c250461dd
